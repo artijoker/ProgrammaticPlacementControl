@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cities_list_margin_vertical">10dp</dimen>
+    <dimen name="cities_list_margin_horizontal">20dp</dimen>
+    <dimen name="cities_list_title_margin">20dp</dimen>
+
+</resources>
